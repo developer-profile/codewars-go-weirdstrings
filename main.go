@@ -2,5 +2,7 @@ package main
 
 func main() {
 
-	toWeirdCase("My Name Is Dmitry")
+	kata.toWeirdCase("My Name Is Dmitry")
+	kata.toWeirdCase("welcome")
+
 }
